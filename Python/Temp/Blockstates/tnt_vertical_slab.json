@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/tnt/north"},"facing=south": {"model": "bdn:block/verticalslabs/tnt/south"},"facing=east": {"model": "bdn:block/verticalslabs/tnt/east"},"facing=west": {"model": "bdn:block/verticalslabs/tnt/west"},"facing=double": {"model": "block/tnt"}}}

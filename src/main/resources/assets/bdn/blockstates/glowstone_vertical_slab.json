@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bdn:block/verticalslabs/glowstone/north"
+    },
+    "facing=south": {
+      "model": "bdn:block/verticalslabs/glowstone/south"
+    },
+    "facing=east": {
+      "model": "bdn:block/verticalslabs/glowstone/east"
+    },
+    "facing=west": {
+      "model": "bdn:block/verticalslabs/glowstone/west"
+    },
+    "facing=double": {
+      "model": "block/glowstone"
+    }
+  }
+}

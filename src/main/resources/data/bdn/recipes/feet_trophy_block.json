@@ -1,0 +1,12 @@
+{"type": "minecraft:crafting_shaped","pattern": ["ABA","CDE","FFF"],
+  "key":
+  {
+    "A": {"item": "minecraft:beacon"},
+    "B": {"item": "minecraft:dragon_head"},
+    "C": {"item": "minecraft:ender_eye"},
+    "D": {"item": "minecraft:conduit"},
+    "E": {"item": "bdn:grass_slab"},
+    "F": {"item": "minecraft:diamond_block"}
+
+  },
+  "result": {"item": "bdn:test_un","count": 1}}

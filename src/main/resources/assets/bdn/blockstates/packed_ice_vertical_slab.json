@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/packed_ice/north"},"facing=south": {"model": "bdn:block/verticalslabs/packed_ice/south"},"facing=east": {"model": "bdn:block/verticalslabs/packed_ice/east"},"facing=west": {"model": "bdn:block/verticalslabs/packed_ice/west"},"facing=double": {"model": "block/packed_ice"}}}

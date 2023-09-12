@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/cactus/north"},"facing=south": {"model": "bdn:block/verticalslabs/cactus/south"},"facing=east": {"model": "bdn:block/verticalslabs/cactus/east"},"facing=west": {"model": "bdn:block/verticalslabs/cactus/west"},"facing=double": {"model": "block/cactus"}}}

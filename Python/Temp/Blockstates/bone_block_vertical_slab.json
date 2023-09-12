@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/bone_block/north"},"facing=south": {"model": "bdn:block/verticalslabs/bone_block/south"},"facing=east": {"model": "bdn:block/verticalslabs/bone_block/east"},"facing=west": {"model": "bdn:block/verticalslabs/bone_block/west"},"facing=double": {"model": "block/bone_block"}}}

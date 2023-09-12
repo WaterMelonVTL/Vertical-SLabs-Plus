@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/diorite/north"},"facing=south": {"model": "bdn:block/verticalslabs/diorite/south"},"facing=east": {"model": "bdn:block/verticalslabs/diorite/east"},"facing=west": {"model": "bdn:block/verticalslabs/diorite/west"},"facing=double": {"model": "block/diorite"}}}

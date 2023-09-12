@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/stripped_oak_wood/north"},"facing=south": {"model": "bdn:block/verticalslabs/stripped_oak_wood/south"},"facing=east": {"model": "bdn:block/verticalslabs/stripped_oak_wood/east"},"facing=west": {"model": "bdn:block/verticalslabs/stripped_oak_wood/west"},"facing=double": {"model": "block/stripped_oak_wood"}}}

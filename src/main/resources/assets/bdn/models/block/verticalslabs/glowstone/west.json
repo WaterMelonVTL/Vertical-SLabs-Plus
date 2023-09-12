@@ -1,0 +1,10 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "bdn:block/verticalslabs/west",
+  "textures": {
+    "side": "block/glowstone"
+  }
+}
+
+
+

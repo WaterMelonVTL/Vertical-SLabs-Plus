@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/birch_planks/north"},"facing=south": {"model": "bdn:block/verticalslabs/birch_planks/south"},"facing=east": {"model": "bdn:block/verticalslabs/birch_planks/east"},"facing=west": {"model": "bdn:block/verticalslabs/birch_planks/west"},"facing=double": {"model": "block/birch_planks"}}}

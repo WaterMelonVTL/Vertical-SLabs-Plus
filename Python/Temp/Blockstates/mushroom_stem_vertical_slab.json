@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/mushroom_stem/north"},"facing=south": {"model": "bdn:block/verticalslabs/mushroom_stem/south"},"facing=east": {"model": "bdn:block/verticalslabs/mushroom_stem/east"},"facing=west": {"model": "bdn:block/verticalslabs/mushroom_stem/west"},"facing=double": {"model": "block/mushroom_stem"}}}

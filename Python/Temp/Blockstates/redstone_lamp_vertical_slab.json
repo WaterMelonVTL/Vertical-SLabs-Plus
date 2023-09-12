@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/redstone_lamp/north"},"facing=south": {"model": "bdn:block/verticalslabs/redstone_lamp/south"},"facing=east": {"model": "bdn:block/verticalslabs/redstone_lamp/east"},"facing=west": {"model": "bdn:block/verticalslabs/redstone_lamp/west"},"facing=double": {"model": "block/redstone_lamp"}}}

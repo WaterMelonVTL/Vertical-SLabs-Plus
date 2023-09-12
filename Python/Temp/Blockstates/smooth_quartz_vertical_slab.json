@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/smooth_quartz/north"},"facing=south": {"model": "bdn:block/verticalslabs/smooth_quartz/south"},"facing=east": {"model": "bdn:block/verticalslabs/smooth_quartz/east"},"facing=west": {"model": "bdn:block/verticalslabs/smooth_quartz/west"},"facing=double": {"model": "block/smooth_quartz"}}}

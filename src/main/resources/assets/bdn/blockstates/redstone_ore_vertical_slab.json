@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/redstone_ore/north"},"facing=south": {"model": "bdn:block/verticalslabs/redstone_ore/south"},"facing=east": {"model": "bdn:block/verticalslabs/redstone_ore/east"},"facing=west": {"model": "bdn:block/verticalslabs/redstone_ore/west"},"facing=double": {"model": "block/redstone_ore"}}}

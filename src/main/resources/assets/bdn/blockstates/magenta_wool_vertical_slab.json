@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/magenta_wool/north"},"facing=south": {"model": "bdn:block/verticalslabs/magenta_wool/south"},"facing=east": {"model": "bdn:block/verticalslabs/magenta_wool/east"},"facing=west": {"model": "bdn:block/verticalslabs/magenta_wool/west"},"facing=double": {"model": "block/magenta_wool"}}}

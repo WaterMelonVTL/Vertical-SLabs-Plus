@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bdn:block/math_foot"
+    }
+  }
+}

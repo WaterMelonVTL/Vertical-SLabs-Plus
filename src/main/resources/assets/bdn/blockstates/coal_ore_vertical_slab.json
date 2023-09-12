@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/coal_ore/north"},"facing=south": {"model": "bdn:block/verticalslabs/coal_ore/south"},"facing=east": {"model": "bdn:block/verticalslabs/coal_ore/east"},"facing=west": {"model": "bdn:block/verticalslabs/coal_ore/west"},"facing=double": {"model": "block/coal_ore"}}}

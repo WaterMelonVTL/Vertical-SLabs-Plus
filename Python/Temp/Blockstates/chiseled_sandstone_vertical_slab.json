@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/chiseled_sandstone/north"},"facing=south": {"model": "bdn:block/verticalslabs/chiseled_sandstone/south"},"facing=east": {"model": "bdn:block/verticalslabs/chiseled_sandstone/east"},"facing=west": {"model": "bdn:block/verticalslabs/chiseled_sandstone/west"},"facing=double": {"model": "block/chiseled_sandstone"}}}

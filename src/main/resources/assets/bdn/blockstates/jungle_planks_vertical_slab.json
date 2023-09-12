@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/jungle_planks/north"},"facing=south": {"model": "bdn:block/verticalslabs/jungle_planks/south"},"facing=east": {"model": "bdn:block/verticalslabs/jungle_planks/east"},"facing=west": {"model": "bdn:block/verticalslabs/jungle_planks/west"},"facing=double": {"model": "block/jungle_planks"}}}

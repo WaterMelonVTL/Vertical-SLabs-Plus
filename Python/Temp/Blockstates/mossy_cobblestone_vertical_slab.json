@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/mossy_cobblestone/north"},"facing=south": {"model": "bdn:block/verticalslabs/mossy_cobblestone/south"},"facing=east": {"model": "bdn:block/verticalslabs/mossy_cobblestone/east"},"facing=west": {"model": "bdn:block/verticalslabs/mossy_cobblestone/west"},"facing=double": {"model": "block/mossy_cobblestone"}}}

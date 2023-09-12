@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/brown_terracotta/north"},"facing=south": {"model": "bdn:block/verticalslabs/brown_terracotta/south"},"facing=east": {"model": "bdn:block/verticalslabs/brown_terracotta/east"},"facing=west": {"model": "bdn:block/verticalslabs/brown_terracotta/west"},"facing=double": {"model": "block/brown_terracotta"}}}

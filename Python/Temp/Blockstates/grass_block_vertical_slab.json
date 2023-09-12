@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/grass_block/north"},"facing=south": {"model": "bdn:block/verticalslabs/grass_block/south"},"facing=east": {"model": "bdn:block/verticalslabs/grass_block/east"},"facing=west": {"model": "bdn:block/verticalslabs/grass_block/west"},"facing=double": {"model": "block/grass_block"}}}

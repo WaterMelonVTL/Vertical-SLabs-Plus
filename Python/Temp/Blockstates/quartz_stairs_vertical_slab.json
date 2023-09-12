@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/quartz_stairs/north"},"facing=south": {"model": "bdn:block/verticalslabs/quartz_stairs/south"},"facing=east": {"model": "bdn:block/verticalslabs/quartz_stairs/east"},"facing=west": {"model": "bdn:block/verticalslabs/quartz_stairs/west"},"facing=double": {"model": "block/quartz_stairs"}}}

@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/crafting_table/north"},"facing=south": {"model": "bdn:block/verticalslabs/crafting_table/south"},"facing=east": {"model": "bdn:block/verticalslabs/crafting_table/east"},"facing=west": {"model": "bdn:block/verticalslabs/crafting_table/west"},"facing=double": {"model": "block/crafting_table"}}}

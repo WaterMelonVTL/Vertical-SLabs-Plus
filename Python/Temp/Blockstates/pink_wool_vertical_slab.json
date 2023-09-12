@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/pink_wool/north"},"facing=south": {"model": "bdn:block/verticalslabs/pink_wool/south"},"facing=east": {"model": "bdn:block/verticalslabs/pink_wool/east"},"facing=west": {"model": "bdn:block/verticalslabs/pink_wool/west"},"facing=double": {"model": "block/pink_wool"}}}

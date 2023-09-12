@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/pumpkin/north"},"facing=south": {"model": "bdn:block/verticalslabs/pumpkin/south"},"facing=east": {"model": "bdn:block/verticalslabs/pumpkin/east"},"facing=west": {"model": "bdn:block/verticalslabs/pumpkin/west"},"facing=double": {"model": "block/pumpkin"}}}

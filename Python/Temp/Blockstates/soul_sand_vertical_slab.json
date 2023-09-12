@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/soul_sand/north"},"facing=south": {"model": "bdn:block/verticalslabs/soul_sand/south"},"facing=east": {"model": "bdn:block/verticalslabs/soul_sand/east"},"facing=west": {"model": "bdn:block/verticalslabs/soul_sand/west"},"facing=double": {"model": "block/soul_sand"}}}

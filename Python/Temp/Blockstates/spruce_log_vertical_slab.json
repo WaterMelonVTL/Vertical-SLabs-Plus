@@ -1,0 +1,1 @@
+{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/spruce_log/north"},"facing=south": {"model": "bdn:block/verticalslabs/spruce_log/south"},"facing=east": {"model": "bdn:block/verticalslabs/spruce_log/east"},"facing=west": {"model": "bdn:block/verticalslabs/spruce_log/west"},"facing=double": {"model": "block/spruce_log"}}}
