@@ -707,7 +707,7 @@ public class ModBlocks {
         register_stairs(GRAY_TERRACOTTA_STAIRS, new Identifier(BUILDINGNEEDS.MODID,"gray_terracotta_stairs"));
         register_stairs(PINK_TERRACOTTA_STAIRS, new Identifier(BUILDINGNEEDS.MODID,"pink_terracotta_stairs"));
         register_stairs(CYAN_TERRACOTTA_STAIRS, new Identifier(BUILDINGNEEDS.MODID,"cyan_terracotta_stairs"));
-        register_stairs(LIGHT_GRAY_TERRACOTTA_STAIRS, new Identifier(BUILDINGNEEDS.MODID,"light_gray_terracotta_stairs"));
+        //register_stairs(LIGHT_GRAY_TERRACOTTA_STAIRS, new Identifier(BUILDINGNEEDS.MODID,"light_gray_terracotta_stairs")); A REMETRE EN REVENANT DES VACS;
         register_stairs(BLUE_TERRACOTTA_STAIRS, new Identifier(BUILDINGNEEDS.MODID,"blue_terracotta_stairs"));
         register_stairs(PURPLE_TERRACOTTA_STAIRS, new Identifier(BUILDINGNEEDS.MODID,"purple_terracotta_stairs"));
         register_stairs(GREEN_TERRACOTTA_STAIRS, new Identifier(BUILDINGNEEDS.MODID,"green_terracotta_stairs"));
