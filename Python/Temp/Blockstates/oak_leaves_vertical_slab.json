@@ -1,1 +1,0 @@
-{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/oak_leaves/north"},"facing=south": {"model": "bdn:block/verticalslabs/oak_leaves/south"},"facing=east": {"model": "bdn:block/verticalslabs/oak_leaves/east"},"facing=west": {"model": "bdn:block/verticalslabs/oak_leaves/west"},"facing=double": {"model": "block/oak_leaves"}}}

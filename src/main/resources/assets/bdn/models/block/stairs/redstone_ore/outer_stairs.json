@@ -1,0 +1,1 @@
+{"credit": "Made by watermelon python script ", "parent": "minecraft:block/outer_stairs", "textures": { "bottom": "block/redstone_ore", "top": "block/redstone_ore", "side": "block/redstone_ore" } }

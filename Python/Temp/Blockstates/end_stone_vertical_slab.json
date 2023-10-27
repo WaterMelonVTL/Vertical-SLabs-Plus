@@ -1,1 +1,0 @@
-{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/end_stone/north"},"facing=south": {"model": "bdn:block/verticalslabs/end_stone/south"},"facing=east": {"model": "bdn:block/verticalslabs/end_stone/east"},"facing=west": {"model": "bdn:block/verticalslabs/end_stone/west"},"facing=double": {"model": "block/end_stone"}}}

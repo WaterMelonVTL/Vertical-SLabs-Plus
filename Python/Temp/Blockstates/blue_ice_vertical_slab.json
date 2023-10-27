@@ -1,1 +1,0 @@
-{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/blue_ice/north"},"facing=south": {"model": "bdn:block/verticalslabs/blue_ice/south"},"facing=east": {"model": "bdn:block/verticalslabs/blue_ice/east"},"facing=west": {"model": "bdn:block/verticalslabs/blue_ice/west"},"facing=double": {"model": "block/blue_ice"}}}

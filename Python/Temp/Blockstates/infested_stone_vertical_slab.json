@@ -1,1 +1,0 @@
-{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/infested_stone/north"},"facing=south": {"model": "bdn:block/verticalslabs/infested_stone/south"},"facing=east": {"model": "bdn:block/verticalslabs/infested_stone/east"},"facing=west": {"model": "bdn:block/verticalslabs/infested_stone/west"},"facing=double": {"model": "block/infested_stone"}}}

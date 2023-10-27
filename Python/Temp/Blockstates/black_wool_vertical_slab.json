@@ -1,1 +1,0 @@
-{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/black_wool/north"},"facing=south": {"model": "bdn:block/verticalslabs/black_wool/south"},"facing=east": {"model": "bdn:block/verticalslabs/black_wool/east"},"facing=west": {"model": "bdn:block/verticalslabs/black_wool/west"},"facing=double": {"model": "block/black_wool"}}}

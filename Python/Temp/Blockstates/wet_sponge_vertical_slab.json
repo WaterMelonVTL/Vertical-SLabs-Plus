@@ -1,1 +1,0 @@
-{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/wet_sponge/north"},"facing=south": {"model": "bdn:block/verticalslabs/wet_sponge/south"},"facing=east": {"model": "bdn:block/verticalslabs/wet_sponge/east"},"facing=west": {"model": "bdn:block/verticalslabs/wet_sponge/west"},"facing=double": {"model": "block/wet_sponge"}}}

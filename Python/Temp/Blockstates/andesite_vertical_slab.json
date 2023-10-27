@@ -1,1 +1,0 @@
-{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/andesite/north"},"facing=south": {"model": "bdn:block/verticalslabs/andesite/south"},"facing=east": {"model": "bdn:block/verticalslabs/andesite/east"},"facing=west": {"model": "bdn:block/verticalslabs/andesite/west"},"facing=double": {"model": "block/andesite"}}}

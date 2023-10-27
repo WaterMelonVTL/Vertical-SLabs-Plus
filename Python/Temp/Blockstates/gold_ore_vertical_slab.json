@@ -1,1 +1,0 @@
-{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/gold_ore/north"},"facing=south": {"model": "bdn:block/verticalslabs/gold_ore/south"},"facing=east": {"model": "bdn:block/verticalslabs/gold_ore/east"},"facing=west": {"model": "bdn:block/verticalslabs/gold_ore/west"},"facing=double": {"model": "block/gold_ore"}}}

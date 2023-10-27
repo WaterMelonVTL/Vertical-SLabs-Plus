@@ -22,7 +22,7 @@ for line in Lines:
     
     VerticalVarName=line.upper()+Vertical.upper()
     ##SlabVarName=line.upper()+Slab.upper
-    VerticalBlocID=line+"_vertical_slab"
+    VerticalBlocID=line+Vertical
     #SlabBlocID=line+Vertical
     Item_Name = VerticalBlocID.replace("_", " ").title()
     

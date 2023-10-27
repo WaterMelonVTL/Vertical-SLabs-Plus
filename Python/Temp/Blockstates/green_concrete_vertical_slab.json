@@ -1,1 +1,0 @@
-{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/green_concrete/north"},"facing=south": {"model": "bdn:block/verticalslabs/green_concrete/south"},"facing=east": {"model": "bdn:block/verticalslabs/green_concrete/east"},"facing=west": {"model": "bdn:block/verticalslabs/green_concrete/west"},"facing=double": {"model": "block/green_concrete"}}}

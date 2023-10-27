@@ -1,1 +1,0 @@
-{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/dark_prismarine/north"},"facing=south": {"model": "bdn:block/verticalslabs/dark_prismarine/south"},"facing=east": {"model": "bdn:block/verticalslabs/dark_prismarine/east"},"facing=west": {"model": "bdn:block/verticalslabs/dark_prismarine/west"},"facing=double": {"model": "block/dark_prismarine"}}}

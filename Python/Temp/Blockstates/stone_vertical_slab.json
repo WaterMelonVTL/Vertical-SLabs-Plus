@@ -1,1 +1,0 @@
-{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/stone/north"},"facing=south": {"model": "bdn:block/verticalslabs/stone/south"},"facing=east": {"model": "bdn:block/verticalslabs/stone/east"},"facing=west": {"model": "bdn:block/verticalslabs/stone/west"},"facing=double": {"model": "block/stone"}}}

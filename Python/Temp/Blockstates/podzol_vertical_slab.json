@@ -1,1 +1,0 @@
-{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/podzol/north"},"facing=south": {"model": "bdn:block/verticalslabs/podzol/south"},"facing=east": {"model": "bdn:block/verticalslabs/podzol/east"},"facing=west": {"model": "bdn:block/verticalslabs/podzol/west"},"facing=double": {"model": "block/podzol"}}}

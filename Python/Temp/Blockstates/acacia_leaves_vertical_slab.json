@@ -1,1 +1,0 @@
-{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/acacia_leaves/north"},"facing=south": {"model": "bdn:block/verticalslabs/acacia_leaves/south"},"facing=east": {"model": "bdn:block/verticalslabs/acacia_leaves/east"},"facing=west": {"model": "bdn:block/verticalslabs/acacia_leaves/west"},"facing=double": {"model": "block/acacia_leaves"}}}

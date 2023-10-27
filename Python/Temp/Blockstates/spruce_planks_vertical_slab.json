@@ -1,1 +1,0 @@
-{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/spruce_planks/north"},"facing=south": {"model": "bdn:block/verticalslabs/spruce_planks/south"},"facing=east": {"model": "bdn:block/verticalslabs/spruce_planks/east"},"facing=west": {"model": "bdn:block/verticalslabs/spruce_planks/west"},"facing=double": {"model": "block/spruce_planks"}}}

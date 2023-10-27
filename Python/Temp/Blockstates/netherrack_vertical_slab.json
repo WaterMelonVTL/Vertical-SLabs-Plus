@@ -1,1 +1,0 @@
-{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/netherrack/north"},"facing=south": {"model": "bdn:block/verticalslabs/netherrack/south"},"facing=east": {"model": "bdn:block/verticalslabs/netherrack/east"},"facing=west": {"model": "bdn:block/verticalslabs/netherrack/west"},"facing=double": {"model": "block/netherrack"}}}

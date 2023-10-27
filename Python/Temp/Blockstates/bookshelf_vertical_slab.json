@@ -1,1 +1,0 @@
-{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/bookshelf/north"},"facing=south": {"model": "bdn:block/verticalslabs/bookshelf/south"},"facing=east": {"model": "bdn:block/verticalslabs/bookshelf/east"},"facing=west": {"model": "bdn:block/verticalslabs/bookshelf/west"},"facing=double": {"model": "block/bookshelf"}}}

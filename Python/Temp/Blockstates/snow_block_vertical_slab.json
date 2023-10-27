@@ -1,1 +1,0 @@
-{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/snow_block/north"},"facing=south": {"model": "bdn:block/verticalslabs/snow_block/south"},"facing=east": {"model": "bdn:block/verticalslabs/snow_block/east"},"facing=west": {"model": "bdn:block/verticalslabs/snow_block/west"},"facing=double": {"model": "block/snow_block"}}}

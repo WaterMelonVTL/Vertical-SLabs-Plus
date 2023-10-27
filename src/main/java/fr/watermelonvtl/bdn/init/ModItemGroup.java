@@ -10,4 +10,6 @@ import net.minecraft.util.Identifier;
 public class ModItemGroup {
     public static final ItemGroup VERTICAL_SLABS = FabricItemGroupBuilder.build(new Identifier(BUILDINGNEEDS.MODID,"vertical_slabs"),
                 ()-> new ItemStack(ModBlocks.GLOWSTONEVERTICALSLAB));
+    public static final ItemGroup STAIRS = FabricItemGroupBuilder.build(new Identifier(BUILDINGNEEDS.MODID,"stairs"),
+            ()-> new ItemStack(ModBlocks.SEA_LANTERN_STAIRS));
 }

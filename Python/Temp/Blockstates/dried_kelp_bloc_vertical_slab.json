@@ -1,1 +1,0 @@
-{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/dried_kelp_bloc/north"},"facing=south": {"model": "bdn:block/verticalslabs/dried_kelp_bloc/south"},"facing=east": {"model": "bdn:block/verticalslabs/dried_kelp_bloc/east"},"facing=west": {"model": "bdn:block/verticalslabs/dried_kelp_bloc/west"},"facing=double": {"model": "block/dried_kelp_bloc"}}}

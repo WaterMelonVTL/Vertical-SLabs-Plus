@@ -1,1 +1,0 @@
-{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/sandstone/north"},"facing=south": {"model": "bdn:block/verticalslabs/sandstone/south"},"facing=east": {"model": "bdn:block/verticalslabs/sandstone/east"},"facing=west": {"model": "bdn:block/verticalslabs/sandstone/west"},"facing=double": {"model": "block/sandstone"}}}

@@ -1,1 +1,0 @@
-{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/sea_lantern/north"},"facing=south": {"model": "bdn:block/verticalslabs/sea_lantern/south"},"facing=east": {"model": "bdn:block/verticalslabs/sea_lantern/east"},"facing=west": {"model": "bdn:block/verticalslabs/sea_lantern/west"},"facing=double": {"model": "block/sea_lantern"}}}

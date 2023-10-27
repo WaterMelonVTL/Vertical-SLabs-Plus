@@ -1,1 +1,0 @@
-{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/birch_log/north"},"facing=south": {"model": "bdn:block/verticalslabs/birch_log/south"},"facing=east": {"model": "bdn:block/verticalslabs/birch_log/east"},"facing=west": {"model": "bdn:block/verticalslabs/birch_log/west"},"facing=double": {"model": "block/birch_log"}}}

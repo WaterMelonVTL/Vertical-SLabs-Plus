@@ -1,1 +1,0 @@
-{"variants": {"facing=north": {"model": "bdn:block/verticalslabs/nether_bricks/north"},"facing=south": {"model": "bdn:block/verticalslabs/nether_bricks/south"},"facing=east": {"model": "bdn:block/verticalslabs/nether_bricks/east"},"facing=west": {"model": "bdn:block/verticalslabs/nether_bricks/west"},"facing=double": {"model": "block/nether_bricks"}}}
